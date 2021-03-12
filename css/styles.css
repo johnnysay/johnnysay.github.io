@@ -1,0 +1,35 @@
+body {
+    background-color: #F4F0E6;
+    font-family: 'Nunito';font-size: 22px;
+}
+
+.responsiveMockup {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.responsiveAppStoreBadge {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.footerLinks {
+  text-align: right;
+  font-size: 12px;
+}
+
+.nunito {
+  font-family: Nunito;
+}
+
+.centeredContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
